@@ -1,6 +1,6 @@
 [project]
 name = "hyperflask-users"
-version = "0.3.0"
+version = "0.3.1"
 description = "Authentication and users management for Hyperflask"
 authors = [
     {"name" = "Maxime Bouroumeau-Fuseau", email = "maxime.bouroumeau@gmail.com"}
